@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* .bg{
+    background-image: url('https://images.pexels.com/photos/5082579/pexels-photo-5082579.jpeg?auto=compress&cs=tinysrgb&w=600');
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    
+} */
