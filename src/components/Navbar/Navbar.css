@@ -1,0 +1,61 @@
+.Main {
+  display: flex;
+  background-color: rgb(122, 122, 197);
+  color: white;
+
+}
+
+.left-navbar {
+  display: flex;
+  padding-left: 10px;
+}
+
+.left-navbar-2 {
+  padding: 10px;
+  padding-top: 30px;
+  font-size: 10;
+  cursor: pointer;
+}
+.mid-navbar {
+  flex: 1;
+  margin-left: 10px;
+  margin-top: 24px;
+  height: 30px;
+  border: none;
+  cursor: pointer;
+  border-radius: 40px;
+  background-color: #f0f0f0;
+}
+.right-navbar {
+  margin-left: 20px;
+  padding: 5x;
+  padding-top: 30px;
+  font-size: 10;
+  cursor: pointer;
+}
+
+.Account {
+  display: flex;
+  
+}
+.button1 {
+  margin: 10px;
+  margin-top: 30px;
+  height: 20px;
+  background-color: rgb(154, 247, 154);
+  border-radius: 5px;
+  cursor: pointer;
+}
+.button2 {
+  margin: 10px;
+  margin-top: 30px;
+  height: 20px;
+  background-color: rgb(154, 247, 154);
+  border-radius: 5px;;
+  cursor: pointer;
+}
+.icon{
+    margin-top:30px;
+    cursor: pointer;
+    padding-right: 10px;;
+}

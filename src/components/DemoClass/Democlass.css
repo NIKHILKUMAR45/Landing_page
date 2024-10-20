@@ -1,0 +1,49 @@
+.main{
+    background-color:aqua;
+    margin: 20%;
+    margin-top:70px;
+    height:18rem;
+}
+.first{
+    /* display: flex;
+    flex-direction: column; 
+    padding-top: 10%;*/
+
+}
+
+.information{
+    position:absolute;
+    right:40rem;
+    height:0px;
+    width: 30px;    
+}
+.Name{
+    
+    height:40px;
+    width: 15rem;
+    outline: none;
+    border: none;
+    box-shadow: none;
+    border-radius: 10px;
+    margin-bottom: 10px;
+
+}
+
+.mobile{
+    height:40px;
+    width: 15rem;
+    outline: none;
+    border: none;
+    box-shadow: none;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.submit{
+    margin-top: 10rem;
+    margin-left: 15rem;
+    height: 30px;
+    width: 18rem;
+    border: none;
+    border-radius: 20px;
+}
